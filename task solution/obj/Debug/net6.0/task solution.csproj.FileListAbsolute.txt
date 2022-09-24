@@ -1,0 +1,15 @@
+M:\Павел рабочий стол\Final verification work\task solution\bin\Debug\net6.0\task solution.exe
+M:\Павел рабочий стол\Final verification work\task solution\bin\Debug\net6.0\task solution.deps.json
+M:\Павел рабочий стол\Final verification work\task solution\bin\Debug\net6.0\task solution.runtimeconfig.json
+M:\Павел рабочий стол\Final verification work\task solution\bin\Debug\net6.0\task solution.dll
+M:\Павел рабочий стол\Final verification work\task solution\bin\Debug\net6.0\task solution.pdb
+M:\Павел рабочий стол\Final verification work\task solution\obj\Debug\net6.0\task solution.csproj.AssemblyReference.cache
+M:\Павел рабочий стол\Final verification work\task solution\obj\Debug\net6.0\task solution.GeneratedMSBuildEditorConfig.editorconfig
+M:\Павел рабочий стол\Final verification work\task solution\obj\Debug\net6.0\task solution.AssemblyInfoInputs.cache
+M:\Павел рабочий стол\Final verification work\task solution\obj\Debug\net6.0\task solution.AssemblyInfo.cs
+M:\Павел рабочий стол\Final verification work\task solution\obj\Debug\net6.0\task solution.csproj.CoreCompileInputs.cache
+M:\Павел рабочий стол\Final verification work\task solution\obj\Debug\net6.0\task solution.dll
+M:\Павел рабочий стол\Final verification work\task solution\obj\Debug\net6.0\refint\task solution.dll
+M:\Павел рабочий стол\Final verification work\task solution\obj\Debug\net6.0\task solution.pdb
+M:\Павел рабочий стол\Final verification work\task solution\obj\Debug\net6.0\task solution.genruntimeconfig.cache
+M:\Павел рабочий стол\Final verification work\task solution\obj\Debug\net6.0\ref\task solution.dll
